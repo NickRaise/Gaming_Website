@@ -3,7 +3,7 @@ import Hero from "./components/Hero"
 function App() {
 
   return (
-    <main className="relative min-h-screnn w-screnn overflow-x-hidden">
+    <main className="relative min-h-screen w-screen overflow-x-hidden">
       <Hero />
     </main>
   )
